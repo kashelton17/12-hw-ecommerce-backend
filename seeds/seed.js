@@ -31,9 +31,6 @@ const seedDatabase = async () => {
     console.log(err)
   }
 
-
-
-
   process.exit(0);
 };
 
