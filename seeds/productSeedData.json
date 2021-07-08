@@ -1,0 +1,27 @@
+[
+    {
+        "product_name": "Plain T-Shirt",  
+        "price": 20.00,
+        "stock": 10,
+        "category_id": 2
+    },
+    {
+        "product_name": "Air Force 1",  
+        "price": 100.00,
+        "stock": 20,
+        "category_id": 1
+    },
+    {
+        "product_name": "Fairy Wand",  
+        "price": 15.00,
+        "stock": 5,
+        "category_id": 3
+    },
+    {
+        "product_name": "Cat in the Hatt",  
+        "price": 15.00,
+        "stock": 8,
+        "category_id": 4
+    }
+]
+

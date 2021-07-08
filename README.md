@@ -4,7 +4,7 @@
  
  ## Description 
  This application allows users to add, update and delete entries from the backend of an ecommerce site 
-
+ ![Preview Image](./assets/images/previewImage1.png)
  
  ## Table of Contents 
 
